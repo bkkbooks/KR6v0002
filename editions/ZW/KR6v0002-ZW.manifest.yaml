@@ -1,0 +1,58 @@
+canonical_identifier: bkk:krp/KR6v0002/ZW/v1
+canonical_location: https://kanripo.org/bkk/KR6v0002/ZW/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 天竺國菩提達摩禪師論
+  identifiers:
+    krp: KR6v0002
+    cbeta: ZW01n0001
+    cbeta_old_id: ZW01n0001
+    authorityid: CA0008363
+    json_key: ZW0001
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW01/ZW01n0001.xml
+    old_id: ZW01n0001
+  edition:
+    short: ZW
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0002_000-ZW.yaml, hash: 'sha256:5f8e3b041c738bcbe9a432f9a7cdde9130786d040cf31c5e9ea9783cfedb59d6'}
+  - {seq: 1, filename: KR6v0002_001-ZW.yaml, hash: 'sha256:1ed16fe37796759d5ba6d6b04a0039a366cdac3ecdb67c25bad6e90c03d12f8f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0002_000-ZW.markers.yaml, hash: 'sha256:06c6529be1b4afa9ac7f9f32a52203eca578b119d8874e9e79ac372ea4dada1f'}
+  - {seq: 1, role: markers, filename: assets/KR6v0002_001-ZW.markers.yaml, hash: 'sha256:f6b8af378197e0afc2be361d376789305bd17650e50815aa7a48a333def04d87'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0002_ZW_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 題解
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0002_ZW_000-mulu-2
+    span:
+    - front
+    - 1094
+    - 1094
+  label: 錄文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0002_ZW_001-juan-start
+    span:
+    - body
+    - 0
+    - 1891
+  label: 天竺國菩提達摩禪師論一卷
+  type: juan
+  level: 1
+hash: sha256:847117e26c920b6cfc0e0e548253d9a8f763dc6778f327af8efbd7c0c08a18d5
