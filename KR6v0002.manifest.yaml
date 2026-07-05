@@ -16,11 +16,11 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR6v0002_000.yaml, hash: 'sha256:bc6a083ef9d7fc76b4bd903331b9a72fdf3403641cf7ec792cf8a2bb5bd50d8c'}
-  - {seq: 1, filename: KR6v0002_001.yaml, hash: 'sha256:48fb4cc3b8cff985ca1a61f05e2ba7ce1148f3101931984b551434c91c3953e2'}
+  - {seq: 0, filename: KR6v0002_000.yaml, hash: 'sha256:5f8e3b041c738bcbe9a432f9a7cdde9130786d040cf31c5e9ea9783cfedb59d6'}
+  - {seq: 1, filename: KR6v0002_001.yaml, hash: 'sha256:1ed16fe37796759d5ba6d6b04a0039a366cdac3ecdb67c25bad6e90c03d12f8f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0002_000.markers.yaml, hash: 'sha256:1cd1ff6cb72ca850524a8f88f4c1027a87ce72875e564c851d1ed0b6586e100f'}
-  - {seq: 1, role: markers, filename: assets/KR6v0002_001.markers.yaml, hash: 'sha256:f6d969ff42828c198952db8adf6aae9b208549dc26685956afa989c8e161aa5a'}
+  - {seq: 0, role: markers, filename: assets/KR6v0002_000.markers.yaml, hash: 'sha256:daf59940e440405581098493c7aca447b9870a1b23fcf732728c23079db7040c'}
+  - {seq: 1, role: markers, filename: assets/KR6v0002_001.markers.yaml, hash: 'sha256:5bd334a84b3e1a91a6428cbefe0dac6f8741eb481f21d1ad75c2cb8b05dc08d5'}
 table_of_contents:
 - ref:
     seq: 0
@@ -52,9 +52,6 @@ table_of_contents:
   label: 天竺國菩提達摩禪師論一卷
   type: juan
   level: 1
-hash: sha256:7722f6ae7eced9f2ea52703bbe4f905ed11e31b61302e54c7635c4880a6a4b2c
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:2ee43b3cbac7b2d7a72d64d7179dad9df6c8efc89f35ecc5b7aac72a2931b927
 editions:
 - short: ZW
