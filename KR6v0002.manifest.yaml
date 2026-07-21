@@ -16,17 +16,17 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR6v0002_000.yaml, hash: 'sha256:af2c952e090c8e9fba56f0192ade3b475ea16a030b8bed02b809facb247c90b2'}
+  - {seq: 0, filename: KR6v0002_000.yaml, hash: 'sha256:9df8938e3878e61ebd4b4354376e8518b5ce2e59d3dbd9e277beeae7663bbb2b'}
   - {seq: 1, filename: KR6v0002_001.yaml, hash: 'sha256:90d85f0e6131c568679857d9a2cad2f4647e01fcf4c98a910273724b9d62fd7a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0002_000.markers.yaml, hash: 'sha256:a2d994e68a3343b2bf75b37d6e2a17293941f3dc2caed6dda21af91386e787ff'}
+  - {seq: 0, role: markers, filename: assets/KR6v0002_000.markers.yaml, hash: 'sha256:88955336a56547743ab490ed2edb2391b867297ed1486ea2b207ccd7fe3fd96a'}
   - {seq: 1, role: markers, filename: assets/KR6v0002_001.markers.yaml, hash: 'sha256:d3db091f87f6598da55b1367b11a86e1d2e713d2f586e619ba75ac1a330ae1ef'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0002_ZW_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 題解
@@ -36,7 +36,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0002_ZW_000-mulu-2
     span:
-    - front
+    - body
     - 1094
     - 1094
   label: 錄文
@@ -52,7 +52,7 @@ table_of_contents:
   label: 天竺國菩提達摩禪師論一卷
   type: juan
   level: 1
-hash: sha256:d2218c3102b5b9a074f3bfa9ff7a615f8bbaeacf9cf966e8e23060f6ca5446fc
+hash: sha256:2bb7f71a89db7750d2b6db2daf77835c59a18160af35ea566ca2095974f56fe8
 editions:
 - short: ZW
 mappings:
